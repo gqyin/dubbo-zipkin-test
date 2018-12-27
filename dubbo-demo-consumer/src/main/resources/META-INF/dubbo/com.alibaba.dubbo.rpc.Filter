@@ -1,0 +1,2 @@
+traceFiltersService=com.zipkin.dubbo.DrpcServerInterceptor
+traceFiltercClient=com.zipkin.dubbo.DrpcClientInterceptor
